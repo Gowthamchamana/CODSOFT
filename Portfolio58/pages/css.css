@@ -11,9 +11,9 @@ body {
 
 .model{
   
-    width: 700px;
+    width: 500px;
     position: absolute;
-    right: 50px;
+    right: -150px;
     bottom:1px;
         
 }
